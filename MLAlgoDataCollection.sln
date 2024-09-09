@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MLAlgoDataCollection", "MLAlgoDataCollection\MLAlgoDataCollection.pyproj", "{5EC6B85E-52DE-4726-99F7-F5B1266D2C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC6B85E-52DE-4726-99F7-F5B1266D2C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC6B85E-52DE-4726-99F7-F5B1266D2C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C44E63-BE5A-4562-8971-6A3E38E16DC6}
+	EndGlobalSection
+EndGlobal
