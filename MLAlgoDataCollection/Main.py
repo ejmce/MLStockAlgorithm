@@ -30,7 +30,7 @@ def get_stock_data():
         latest_data = prediction_value.get('Latest Data', np.nan)
         lstm_pred = prediction_value.get('LSTM Prediction', np.nan)
     
-        # Ensure LSTM Prediction is in correct format and rounded to 2 decimal places
+        # Ensure LSTM Prediction is in correct format and rounded to 2 decimal places.
         if not np.isnan(lstm_pred):
             lstm_prediction = round(lstm_pred, 2)
         else:
